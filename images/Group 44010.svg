@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210" height="81" viewBox="0 0 210 81">
+  <defs>
+    <filter id="Rectangle_24652" x="0" y="0" width="210" height="81" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.369"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_44010" data-name="Group 44010" transform="translate(9 9.384)">
+    <g transform="matrix(1, 0, 0, 1, -9, -9.38)" filter="url(#Rectangle_24652)">
+      <rect id="Rectangle_24652-2" data-name="Rectangle 24652" width="186" height="57" rx="9" transform="translate(9 9)" opacity="0.81"/>
+    </g>
+    <path id="Icon_awesome-apple" data-name="Icon awesome-apple" d="M26.365,21.869a7.738,7.738,0,0,1,4.144-7.029,8.9,8.9,0,0,0-7.02-3.7c-2.942-.232-6.158,1.716-7.335,1.716-1.243,0-4.095-1.633-6.332-1.633C5.2,11.3.281,14.915.281,22.267A20.658,20.658,0,0,0,1.475,29c1.061,3.042,4.89,10.5,8.885,10.377,2.089-.05,3.564-1.484,6.283-1.484,2.636,0,4,1.484,6.332,1.484,4.028-.058,7.493-6.838,8.5-9.888a8.216,8.216,0,0,1-5.114-7.617ZM21.674,8.259A7.807,7.807,0,0,0,23.663,2.25a8.789,8.789,0,0,0-5.628,2.893A7.929,7.929,0,0,0,15.913,11.1C18.077,11.268,20.049,10.157,21.674,8.259Z" transform="translate(15.413 5.277)" fill="#fff"/>
+    <text id="Download_on_the" data-name="Download on the" transform="translate(66.606 16.527)" fill="#fff" font-size="9" font-family="Poppins-Light, Poppins" font-weight="300" opacity="0.7"><tspan x="0" y="0">Download on the</tspan></text>
+    <text id="App_store" data-name="App store" transform="translate(67 40.616)" fill="#fff" font-size="19" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">App store</tspan></text>
+  </g>
+</svg>
